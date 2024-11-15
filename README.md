@@ -126,7 +126,7 @@ The dataset used for this project is sourced from Kaggle and contains various at
 
 ## Results
 
-After running the models, the Random Forest Classifier achieved the highest accuracy on the dataset, making it the preferred choice for deployment in a real-time intrusion detection system. Detailed classification metrics are available in the notebook.
+After running the models, the Random Forest Classifier and Logistic Regression achieved a 100% accuracy on the dataset, making it the preferred choice for deployment in a real-time intrusion detection system. Detailed classification metrics are available in the notebook.
 
 ---
 
