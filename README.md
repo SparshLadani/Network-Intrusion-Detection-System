@@ -79,7 +79,6 @@ The dataset used for this project is sourced from Kaggle and contains various at
 ### 5. **Model Training**
 
    Three machine learning models are trained and evaluated:
-   - **Support Vector Classifier (SVC)**
    - **Logistic Regression**
    - **Random Forest Classifier**
 
