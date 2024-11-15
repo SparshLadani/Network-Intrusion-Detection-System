@@ -108,8 +108,8 @@ The dataset used for this project is sourced from Kaggle and contains various at
 
 1. **Clone the Repository** and open the notebook in Jupyter:
    ```bash
-   git clone <repo-url>
-   cd <repo-folder>
+   git clone https://github.com/SparshLadani/Network-Intrusion-Detection-System.git
+   cd Network-Intrusion-Detection-System
    jupyter notebook
    ```
 
