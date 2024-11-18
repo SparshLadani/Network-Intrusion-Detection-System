@@ -2,7 +2,7 @@
 
 # Network Intrusion Detection System (NIDS)
 
-This project implements a Network Intrusion Detection System (NIDS) using Python and machine learning techniques. It utilizes a dataset from Kaggle to identify malicious activities within network traffic. The primary objective is to classify network activity as normal or malicious based on features in network traffic data.
+This project implements a Network Intrusion Detection System (NIDS) using Python and machine learning techniques. It utilizes a dataset from Kaggle to identify malicious activities within network traffic. The primary objective is to classify network activity as normal or malicious based on features in network traffic data. Please Note that this project is currently under development.
 
 ## Project Structure
 
